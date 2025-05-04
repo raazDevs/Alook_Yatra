@@ -1,0 +1,11 @@
+{
+  "id": 0,
+  "student_id": 0,
+  "award_id": 0,
+  "awarded_date": "2025-01-28T00:00:00Z",
+  "academic_year": "2024-2025",
+  "month": 1,
+  "points_earned": 100,
+  "certificate_url": "https://example.com/certificate",
+  "created_at": "2025-01-28T00:00:00Z"
+}
